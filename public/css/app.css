@@ -117,7 +117,7 @@ input {
 }
 
 
-@media (max-width: 425px) {
+@media (max-width: 768px) {
     .hamburger {
         display: block;
     }
@@ -451,14 +451,14 @@ input {
 }
 
 
-@media (max-width: 425px) {
+@media (max-width: 768px) {
     .div20-card {
         width: 100%;
         max-width: 90%;
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 768px) {
     .div20-container {
         padding: 15px;
         gap: 15px;
@@ -519,7 +519,7 @@ input {
 }
 
 
-@media (max-width: 425px) {
+@media (max-width: 768px) {
     .div30-box h2 {
         font-size: 28px;
     }
@@ -620,7 +620,7 @@ input {
     color: #c00;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 768px) {
     .item {
         width: 100%;
     }
@@ -727,7 +727,7 @@ input {
 }
 
 
-@media (max-width: 425px) {
+@media (max-width: 768px) {
     .div40-content {
         flex-direction: column-reverse;
         text-align: center;
@@ -746,7 +746,7 @@ input {
 /* carosel 4 */
 
 .div15 {
-    /* max-width: 100%; */
+    
     overflow: hidden;
     position: relative;
     padding-top: 60px;
@@ -807,17 +807,12 @@ input {
     background-color: #555;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 768px) {
     .div18 {
         font-size: 12px;
         padding: 10px;
     }
 }
-
-
-
-
-
 
 .div11 {
     display: flex;
@@ -1000,7 +995,7 @@ input {
     background-color: #a83224;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 768px) {
     .div1 {
         flex-direction: column;
     }
@@ -1086,7 +1081,7 @@ input {
     background: #c0392b;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 768px) {
     .slide-track img {
         max-width: 120px;
         height: 100px;
